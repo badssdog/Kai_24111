@@ -1,0 +1,41 @@
+﻿title,author,publication_time,link
+От 6 часов до 20 минут: как мы ускорили коллаборативную модель в рекомендациях Авито,ds-team,"2026-09-24, 15:01",https://habr.com/ru/companies/avito/articles/1086210/
+Как мы следим за 18 000 автомобилями одновременно: телеметрия каршеринга изнутри,hello_evgeniyalion,"2026-09-24, 14:58",https://habr.com/ru/companies/citydrive/articles/1086328/
+Как мы автоматизировали контроль сборки заказов для сети ресторанов быстрого питания,NeuroKirKorov,"2026-09-24, 14:53",https://habr.com/ru/articles/1086318/
+Next.js без Vercel: деплой на один VPS с переключением без простоя и откатом за секунды,DenVibeCode,"2026-09-24, 14:51",https://habr.com/ru/articles/1086314/
+Поиск точек роста продаж как задача диагностики системы: где на самом деле теряется коммерческий результат,Maks_Poklonsky,"2026-09-24, 14:47",https://habr.com/ru/articles/1086310/
+Как мы перестали писать описания к merge request руками: AI Describer в GitLab CI и Jenkins,Peregrine0,"2026-09-24, 14:38",https://habr.com/ru/articles/1086306/
+Разработка платформы координации ПСР во время реальной спасательной операции,fedotov-dev,"2026-09-24, 14:37",https://habr.com/ru/articles/1086304/
+От ComfyUI до собственного ИИ-сервиса: зачем арендуют RTX 5090,gpugo_team,"2026-09-24, 14:32",https://habr.com/ru/companies/gpugo/articles/1086298/
+GEO vs SEO: методология ИИ-мониторинга для работы с генеративной выдачей в 2026 году,EgorKotkin,"2026-09-24, 14:26",https://habr.com/ru/articles/1085368/
+Кабельная проходка в nanoCAD BIM ОПС 25.1: от 3D-модели до спецификации,nanocad,"2026-09-24, 14:19",https://habr.com/ru/companies/nanosoft/articles/1086290/
+"Что такое вайбкодинг простыми словами, как к этому пришли и почему ИИ перевернул игру",Agito_Akira,"2026-09-24, 14:05",https://habr.com/ru/companies/timeweb/articles/1085464/
+"vet молчит, -race молчит: горутины, которые переживают CI",kuriokenshi,"2026-09-24, 13:59",https://habr.com/ru/articles/1085788/
+Собрал платный API для ИИ‑агентов на x402. Рынка не нашёл — зато нашёл четыре бага,Laratok,"2026-09-24, 13:55",https://habr.com/ru/articles/1086276/
+Почему на Хабре ненавидят рекламу Телеграм-каналов?,orchidfiles,"2026-09-24, 13:42",https://habr.com/ru/articles/1086248/
+"Как я научил LLM читать чужую кодовую базу, вместо того чтобы галлюцинировать API",sladkiyzmey,"2026-09-24, 13:42",https://habr.com/ru/articles/1086266/
+Retry policy на практике: подводные камни внедрения,petr_stb,"2026-09-24, 13:31",https://habr.com/ru/companies/ru_mts/articles/1086170/
+Как мы заставили трамвай ехать без GPS: калибровка CAN‑скорости с помощью GNSS,hex_61,"2026-09-24, 13:28",https://habr.com/ru/articles/1086256/
+«Вы мне тоже не подходите». Как низкокачественные цифровые сервисы подрывают доверие сотрудников,E-Chayka,"2026-09-24, 13:27",https://habr.com/ru/companies/directum/articles/1086238/
+Архитектура цифрового выражения субъектности,Jekd,"2026-09-24, 13:23",https://habr.com/ru/articles/1086254/
+«Я знаю» и «Я умею»: почему образование надо измерять навыками,Isma,"2026-09-24, 13:21",https://habr.com/ru/articles/1086250/
+«Я знаю» и «Я умею»: почему образование надо измерять навыками,Isma,"2026-09-24, 13:21",https://habr.com/ru/articles/1086250/
+Заметки в своём GitHub без сервера: как я оживил BatNoter и написал синхронизацию на Git Data API,Perruer,"2026-09-24, 13:19",https://habr.com/ru/articles/1086244/
+Помните исследование про «ИИ замедляет на 19%»? Его повторили — и оно сломалось,Igoryas,"2026-09-24, 13:16",https://habr.com/ru/companies/domclick/articles/1085232/
+"Есть время, ум и деньги: почему социальные танцы — идеальное хобби для ИТ-специалистов",MegaplanCEO,"2026-09-24, 13:14",https://habr.com/ru/articles/1085626/
+Как я всё‑таки опубликовала игру в Google Play из России,DashaModels,"2026-09-24, 13:11",https://habr.com/ru/articles/1086240/
+"AI пишет код быстрее, но ревью становится тяжелее: откуда берётся когнитивный долг",kmoseenk,"2026-09-24, 13:10",https://habr.com/ru/companies/otus/articles/1085730/
+Пять шагов Илона Маска для улучшения процессов,AlexRussianPyth,"2026-09-24, 13:10",https://habr.com/ru/articles/1082692/
+ИИ заберёт тексты и код. Но это никогда не было главной работой человека. Часть 3,freyapero,"2026-09-24, 13:09",https://habr.com/ru/companies/X5Tech/articles/1063486/
+"Шахматы голосом: как объяснить Алисе ход, если игрок не видит доску",blaryx,"2026-09-24, 13:04",https://habr.com/ru/articles/1086234/
+"Как взвесить чужой репозиторий, не запуская его: 138 проектов из трендов GitHub",Aleksandr_NFA,"2026-09-24, 13:03",https://habr.com/ru/articles/1086232/
+"Как найти лишние процессы, открытые порты и подозрительные соединения на VDS",SrvTrantor,"2026-09-24, 13:02",https://habr.com/ru/companies/ruvds/articles/1085206/
+"Квесты, собаки, прод и немного удачи. Как мы стали командой",316rock,"2026-09-24, 13:00",https://habr.com/ru/articles/1086196/
+От localStorage к HttpOnly Cookie. Как меняется архитектура авторизации в SPA,4Nun4ku,"2026-09-24, 13:00",https://habr.com/ru/companies/gnivc/articles/1082540/
+"Миллионы объектов со стабильными адресами, или как удержать состояние под строгим RT дедлайном цикла",momentics,"2026-09-24, 12:44",https://habr.com/ru/articles/1086212/
+VK Data Platform под капотом: как устроена платформа для Data Lakehouse,qqrew,"2026-09-24, 12:40",https://habr.com/ru/companies/vktech/articles/1086190/
+FASt: как я написал приложение для создания ассет паков для Flipper Zero и чуть не сошёл с ума из‑за китайских флешек,D13young,"2026-09-24, 12:39",https://habr.com/ru/articles/1086206/
+"Плагин 1С в Алисе AI яндекс для бизнеса: теперь ИИ ходит в 1С, получает данные и отвечает пользователям",Anoviul,"2026-09-24, 12:36",https://habr.com/ru/articles/1086200/
+Невидимые изменения в службах каталогов: почему нельзя доверять журналам аудита,AlexTsvetkoff,"2026-09-24, 12:33",https://habr.com/ru/companies/infowatch/articles/1085678/
+Строим продвинутый каркас для ИИ-агента,eds88,"2026-09-24, 12:32",https://habr.com/ru/companies/ostrovok/articles/1084568/
+Почему RAG не умеет в Excel,NoHatus,"2026-09-24, 12:28",https://habr.com/ru/articles/1086194/
