@@ -1,0 +1,41 @@
+import asyncio
+import time
+import aiohttp
+
+# Список URL-адресов для проверки
+URLS = [
+    'https://httpbin.org/delay/2',
+    'https://httpbin.org/delay/2',
+    'https://httpbin.org/delay/2',
+]
+
+
+async def fetch(session, url, index):
+    """Асинхронно отправляет GET-запрос к URL."""
+    print(f"[Задача {index}] Старт запроса к {url}")
+
+    async with session.get(url) as response:
+        status = response.status
+        print(f"[Задача {index}] Получен ответ: статус {status}")
+        return status
+
+
+async def main():
+    """Главная асинхронная функция."""
+    start_time = time.perf_counter()
+
+    # ssl=False отключает проверку сертификатов для обхода ошибки подключения
+    connector = aiohttp.TCPConnector(ssl=False)
+
+    async with aiohttp.ClientSession(connector=connector) as session:
+        tasks = [fetch(session, url, i + 1) for i, url in enumerate(URLS)]
+        results = await asyncio.gather(*tasks)
+
+    end_time = time.perf_counter()
+    print(f"\nВсе запросы успешно завершены!")
+    print(f"Результаты ответов: {results}")
+    print(f"Затраченное время: {end_time - start_time:.2f} сек.")
+
+
+if __name__ == '__main__':
+    asyncio.run(main())
